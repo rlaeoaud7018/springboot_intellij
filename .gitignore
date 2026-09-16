@@ -1,0 +1,11 @@
+# STS 프로그램 및 다운로드 폴더 제외
+download/
+sts-bundle/
+
+# Eclipse / STS 설정 및 캐시 제외
+.metadata/
+.recommenders/
+bin/
+tmp/
+*.tmp
+*.bak
